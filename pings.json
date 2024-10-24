@@ -1,0 +1,12 @@
+{
+    "lifetime": {
+        "max_pings": 3,
+        "max_here": 0,
+        "max_everyone": 3
+    },
+    "non_lifetime": {
+        "max_pings": 3,
+        "max_here": 0,
+        "max_everyone": 3
+    }
+}
