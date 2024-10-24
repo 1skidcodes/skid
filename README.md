@@ -1,0 +1,2 @@
+# skid
+discord - iskidcodesfromgithub
