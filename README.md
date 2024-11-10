@@ -1,2 +1,3 @@
-# skid
-create a folder name cogs and save it.
+discord - ohmyfckingawd
+discord.gg/dclodepe
+create a folder named cogs and save it.
